@@ -1,12 +1,3 @@
-```html
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>README.md</title>
-</head>
-<body>
-  <pre>
 # 🚨 Incident Tracker API
 
 Простой сервис на Flask для учёта инцидентов (проблемы от операторов, мониторинга и партнёров).
@@ -74,10 +65,3 @@ curl http://localhost:5000/incidents/1
 > Возможные статусы: `new`, `ongoing`, `resolved`, `closed`
 > Возможные источники: `operator`, `monitoring`, `partner`
 
----
-
-
-  </pre>
-</body>
-</html>
-```
