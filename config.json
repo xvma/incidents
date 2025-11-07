@@ -1,0 +1,10 @@
+{
+  "database": {
+    "path": "./incidents.db"
+  },
+  "service": {
+    "host": "localhost",
+    "port": 5000,
+    "debug": true
+  }
+}
